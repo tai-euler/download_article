@@ -1,6 +1,10 @@
 **prerequisites: python2.7, phantomjs, BeautifulSoup, urllib2
 *** tested ONLY on mac os x Sierra!
 
+https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83MTNmNzk1YTEwZDJjZmM1MzExOTJlYmFlNjRjM2JjOS5qcGc=.jpg
+
+
+experimental code, just for research purposes.
 quick documentation:
 
 1. links.txt - provide URLs to articles for download + first URL is a dummy link(bug in the code) and wont be downloaded
