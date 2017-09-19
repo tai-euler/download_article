@@ -1,7 +1,9 @@
 **prerequisites: python2.7, phantomjs, BeautifulSoup, urllib2
 *** tested ONLY on mac os x Sierra!
 
-https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83MTNmNzk1YTEwZDJjZmM1MzExOTJlYmFlNjRjM2JjOS5qcGc=.jpg
+
+<img src="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83MTNmNzk1YTEwZDJjZmM1MzExOTJlYmFlNjRjM2JjOS5qcGc=.jpg" alt="wolfiecindysmile" style="width:304px;height:228px;">
+
 
 
 experimental code, just for research purposes.
