@@ -6,7 +6,7 @@
 
 
 
-experimental code, just for research purposes.
+experimental code, just for research purposes. Google’s web crawler can bypass the paywall .
 quick documentation:
 
 1. links.txt - provide URLs to articles for download + first URL is a dummy link(bug in the code) and wont be downloaded
