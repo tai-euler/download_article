@@ -9,13 +9,13 @@ quick documentation:
 
 1. links.txt - provide URLs to articles for download + first URL is a dummy link(bug in the code) and wont be downloaded
 2. savingUrlAsPdf.js - with phantomjs saves articles as pdf with a random user agent
-3. email-hackedcom.py  - sends pdfs from folder to hardcoded email address
+3. email-article.py  - sends pdfs from folder to hardcoded email address
 4. 
 
 - before running script edit some code:
       in runScript.sh -> “path_to_URLs.txt”
       in savingUrlsAsPdf -> “path_to_articles_folder"
-      in email-hackedcom.py -> add friends emails, add your email addr. + password, subject to email, path
+      in email-article.py -> add friends emails, add your email addr. + password, subject to email, path
 - second, go to WEBSITE_OF_YOUR_CHOICE for some interesting article and copy the google ”cached URL"
   to the links.txt.
 - run runScript.sh in terminal.
