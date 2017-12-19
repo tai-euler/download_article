@@ -2,7 +2,7 @@
 *** tested ONLY on mac os x Sierra! experimental code, just for research purposes. 
 ### Note: Google’s web crawler can bypass the paywall.
 
-<img src="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83MTNmNzk1YTEwZDJjZmM1MzExOTJlYmFlNjRjM2JjOS5qcGc=.jpg" alt="wolfiecindysmile" style="width:304px;height:228px;">
+<img src="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYTU2MmQxZDQ4MmE0MmE1M2Q5MjgyNzM5Nzg1YTMyMS5qcGc=.jpg" alt="wolfiecindysmile" style="width:304px;height:228px;">
 
 
 quick documentation:
