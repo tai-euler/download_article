@@ -16,7 +16,7 @@ done <"PATH_TO_URLS.txt"
 
 
 echo "Now sending PDFs to friends with python"
-python "PATH_TO_email-hackedcom.py"
+python "PATH_TO_email-article.py"
 
 
 
